@@ -1,6 +1,8 @@
+*.mkv
 *.mp4
 *.flv
 *.avi
 *.mov
 mail*.md
 *Export/
+Others/
